@@ -24,6 +24,9 @@
             android:name=".LoginActivity"
             android:label="@string/title_activity_login" >
         </activity>
+        <activity
+            android:name=".Test"
+            android:label="@string/title_activity_test"></activity>
     </application>
 
 </manifest>
